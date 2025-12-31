@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Consulta Médica",
+    "descripcion": "Atención profesional personalizada",
+    "imagen": "img/servicio1.jpg"
+  },
+  {
+    "nombre": "Estética Facial",
+    "descripcion": "Tratamientos modernos y seguros",
+    "imagen": "img/servicio2.jpg"
+  },
+  {
+    "nombre": "Control Preventivo",
+    "descripcion": "Cuida tu salud a tiempo",
+    "imagen": "img/servicio3.jpg"
+  }
+]
