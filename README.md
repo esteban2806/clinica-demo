@@ -25,4 +25,10 @@ Sitio web moderno y responsive que permite a una clínica mostrar sus servicios 
 - JavaScript
 
 ## 🌐 Demo en vivo
-(activar GitHub Pages)
+https://github.com/esteban2806/clinica-demo.git
+
+📞 Contacto
+Si necesitas una página web para tu negocio:
+
+📱WhatsApp: 906 202 457
+📧Correo: tapiaingaharold@gmail.com
