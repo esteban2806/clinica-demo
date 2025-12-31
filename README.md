@@ -25,7 +25,7 @@ Sitio web moderno y responsive que permite a una clínica mostrar sus servicios 
 - JavaScript
 
 ## 🌐 Demo en vivo
-https://github.com/esteban2806/clinica-demo.git
+https://esteban2806.github.io/clinica-demo/
 
 📞 Contacto
 Si necesitas una página web para tu negocio:
