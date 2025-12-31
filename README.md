@@ -1,22 +1,23 @@
-# 🏢 Demostración Inmobiliaria – Sitio Web de Propiedades
+# 🏥 Demostración Clínica – Página Web Informativa
 
-Proyecto demostrativo de una página web para inmobiliarias y agentes de bienes raíces.
+Proyecto demostrativo de una página web para clínicas y consultorios médicos, desarrollada con HTML, CSS y JavaScript.
 
 ![Vista previa](img/preview.png)
 
 ## 📌 Descripción
-Sitio web diseñado para mostrar propiedades en venta o alquiler de forma clara, visual y accesible desde cualquier dispositivo.
+Sitio web moderno y responsive que permite a una clínica mostrar sus servicios médicos, horarios de atención y contacto directo por WhatsApp.
 
-## 🏠 Ideal para
-- Inmobiliarias
-- Agentes inmobiliarios
-- Corredores independientes
+## 👨‍⚕️ Ideal para
+- Clínicas
+- Consultorios médicos
+- Médicos independientes
+- Centros de salud
 
 ## ⚙️ Funcionalidades
-- Catálogo de propiedades
-- Diseño responsive
+- Información clara de servicios
+- Diseño adaptable a celular y PC
 - Botón de contacto por WhatsApp
-- Presentación profesional
+- Carga rápida
 
 ## 🛠️ Tecnologías
 - HTML5
