@@ -2,7 +2,7 @@
 
 Proyecto demostrativo de una página web para clínicas y consultorios médicos, desarrollada con HTML, CSS y JavaScript.
 
-![Vista previa](img/preview.png)
+![Vista previa](img/vista.png)
 
 ## 📌 Descripción
 Sitio web moderno y responsive que permite a una clínica mostrar sus servicios médicos, horarios de atención y contacto directo por WhatsApp.
